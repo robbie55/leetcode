@@ -1,4 +1,4 @@
-This repo is for storing all the leetcode problems I've done up until whenever whoever is reading this.
+This repo is for storing all the leetcode problems I've done up until whenever. 
 
 As of right now, as I'm creating it, I'll have some work to do in the form of organizing by problem difficulty (easy, medium, hard).
 
